@@ -1,0 +1,2735 @@
+---
+H
+i
+g
+h
+e
+r
+ 
+P
+ro
+b
+a
+bi
+l
+it
+y
+ t
+o
+ f
+in
+d
+ m
+at
+c
+he
+d 
+s
+t
+ri
+n
+gs
+\
+O
+f
+te
+n 
+re
+q
+u
+ir
+es
+ th
+e 
+or
+ig
+ina
+l 
+co
+p
+y 
+as
+ the
+ r
+ef
+er
+en
+ce
+\(
+m
+ea
+su
+res
+ fi
+de
+li
+ty
+ ra
+th
+er 
+tha
+n q
+ua
+lit
+y)
+\ 
+W
+ork
+s 
+be
+tt
+er i
+f 
+ta
+k
+ing
+ H
+V
+S
+ mo
+del
+ i
+nt
+o 
+ac
+cou
+nt\
+Hi
+gh
+er P
+rob
+ab
+il
+ity
+ to
+ fin
+d m
+atc
+hed
+ s
+tr
+ings
+\O
+ft
+en 
+req
+ui
+res 
+the
+ o
+rig
+inal
+ c
+op
+y a
+s t
+he 
+ref
+ere
+nc
+e\
+(
+me
+asu
+res f
+id
+el
+ity 
+ra
+ther
+ tha
+n qu
+al
+ity)
+\ W
+orks
+ b
+et
+ter
+ if
+ ta
+ki
+ng
+ HV
+S 
+mo
+del 
+int
+o a
+cc
+ou
+nt\H
+igh
+er Pr
+ob
+abi
+lity
+ to 
+fi
+nd
+ ma
+tc
+hed 
+st
+rin
+gs\
+Of
+ten
+ re
+qu
+ire
+s th
+e o
+rigi
+na
+l c
+opy
+ a
+s the
+ ref
+eren
+ce\
+(m
+eas
+ur
+es 
+fid
+eli
+ty 
+rat
+her
+ than
+ q
+ual
+ity)\
+ W
+orks 
+bet
+ter 
+if
+ tak
+ing 
+HV
+S m
+od
+el 
+into
+ ac
+coun
+t\
+Hig
+her 
+Pr
+oba
+bil
+ity t
+o f
+ind
+ mat
+ch
+ed
+ st
+ring
+s\
+Oft
+en r
+eq
+uir
+es t
+he o
+rigin
+al 
+cop
+y as
+ the 
+refe
+ren
+ce\(
+mea
+sur
+es f
+ide
+lity 
+rath
+er t
+ha
+n qua
+lity)
+\ Wo
+rk
+s b
+ett
+er if
+ taki
+ng 
+HVS
+ mod
+el i
+nto
+ acc
+oun
+t\H
+ighe
+r 
+Pro
+ba
+bili
+ty t
+o fi
+nd 
+ma
+tch
+ed 
+str
+ings\
+Ofte
+n r
+equ
+ires
+ the o
+rigina
+l co
+py
+ as
+ the r
+efe
+renc
+e\(
+meas
+ure
+s f
+idel
+ity r
+ath
+er th
+an
+ qu
+ali
+ty)
+\ Wor
+ks
+ be
+tte
+r i
+f t
+ak
+ing H
+VS
+ mode
+l i
+nto 
+acc
+ount
+\H
+igher
+ P
+roba
+bilit
+y t
+o fin
+d ma
+tche
+d s
+tri
+ngs
+\Of
+ten 
+requ
+ires 
+the 
+ori
+gi
+nal
+ co
+py 
+as 
+the r
+efer
+enc
+e\(m
+easu
+res fi
+deli
+ty r
+athe
+r t
+han
+ qua
+lity)\
+ Wo
+rks
+ bet
+ter i
+f ta
+kin
+g 
+HVS 
+mod
+el in
+to
+ acco
+un
+t\Hi
+ghe
+r P
+robab
+ili
+ty to
+ find
+ matc
+hed s
+trin
+gs\O
+fte
+n re
+qui
+res t
+he or
+igi
+nal 
+copy
+ as 
+the re
+fe
+rence
+\(m
+easur
+es fi
+delit
+y r
+ather
+ than 
+qua
+lity)\ 
+Wo
+rks 
+bett
+er if 
+tak
+ing HV
+S mo
+del i
+nto a
+cco
+unt
+\Hi
+gher
+ Pr
+obab
+ilit
+y to
+ find 
+mat
+che
+d st
+rings
+\Oft
+en re
+quir
+es th
+e or
+igin
+al c
+opy 
+as t
+he r
+efere
+nce
+\(me
+asur
+es fid
+elit
+y ra
+ther 
+than
+ qual
+ity)\ 
+Wor
+ks 
+bette
+r if
+ takin
+g H
+VS 
+mode
+l in
+to 
+acco
+unt\
+High
+er Pro
+bab
+ility
+ to f
+ind 
+matc
+hed st
+rings\
+Often
+ req
+uire
+s the 
+orig
+inal 
+copy 
+as th
+e r
+eferen
+ce\(m
+easure
+s fi
+delity
+ rat
+her t
+han 
+qual
+ity)\ W
+orks b
+ette
+r if 
+taki
+ng H
+VS m
+ode
+l int
+o ac
+count
+\Hig
+her P
+robabi
+lity t
+o find
+ match
+ed s
+tring
+s\O
+ften
+ requ
+ires t
+he ori
+gin
+al co
+py a
+s the r
+eferenc
+e\(me
+asure
+s fid
+elity
+ rath
+er tha
+n qual
+ity)\ Wo
+rks b
+etter
+ if 
+takin
+g HV
+S mod
+el int
+o acc
+ount\
+Highe
+r Pr
+obabi
+lity to
+ find m
+atch
+ed st
+rings\O
+ften 
+requi
+res th
+e ori
+gina
+l cop
+y as 
+the ref
+erenc
+e\(mea
+sure
+s fide
+lity r
+ather 
+than 
+quali
+ty)\
+ Wor
+ks b
+etter 
+if 
+taking
+ HVS
+ model
+ in
+to a
+ccou
+nt\Hi
+gher 
+Prob
+abil
+ity to
+ find ma
+tched
+ str
+ings\O
+ften r
+equi
+res the
+ or
+igina
+l copy
+ as t
+he re
+fer
+ence
+\(mea
+sures
+ fid
+elity 
+rathe
+r th
+an 
+qualit
+y)\
+ Work
+s be
+tter
+ if t
+aki
+ng HV
+S mode
+l into
+ accou
+nt\Hig
+her Pr
+obabil
+ity to 
+fin
+d mat
+ched
+ stri
+ngs\
+Often 
+requir
+es the
+ ori
+ginal
+ cop
+y as t
+he ref
+erence
+\(meas
+ures
+ fide
+lity ra
+ther t
+han q
+uali
+ty)\ 
+Work
+s bet
+ter if
+ taking
+ HVS 
+model
+ int
+o acco
+unt\H
+igher 
+Proba
+bility
+ to fi
+nd m
+atche
+d str
+ings\Of
+ten r
+equir
+es the 
+origi
+nal c
+opy a
+s the re
+fere
+nce\
+(me
+asures
+ fidel
+ity ra
+ther th
+an q
+ualit
+y)\ 
+Works
+ bett
+er if t
+akin
+g HVS
+ model 
+into 
+accou
+nt\High
+er Prob
+abili
+ty to 
+find
+ matche
+d stri
+ngs\O
+ften re
+quire
+s the o
+riginal
+ copy
+ as th
+e re
+feren
+ce\(me
+asures 
+fide
+lity rat
+her th
+an qu
+alit
+y)\ W
+orks be
+tter 
+if t
+aking
+ HVS m
+odel
+ into
+ accoun
+t\Hig
+her Pro
+babi
+lity to 
+find 
+match
+ed str
+ings\Oft
+en req
+uires
+ the or
+iginal
+ copy 
+as the
+ refe
+rence\
+(mea
+sures 
+fidel
+ity rat
+her tha
+n quali
+ty)\ W
+orks bet
+ter if 
+taking 
+HVS m
+odel 
+into a
+ccoun
+t\High
+er Proba
+bility 
+to f
+ind m
+atched
+ strin
+gs\Of
+ten re
+quires
+ the ori
+ginal 
+copy a
+s the ref
+erence\
+(meas
+ures 
+fideli
+ty ra
+ther tha
+n qualit
+y)\ Wo
+rks be
+tter i
+f tak
+ing HVS
+ model i
+nto ac
+count\
+Higher
+ Pro
+babil
+ity to f
+ind ma
+tched 
+stri
+ngs\Of
+ten req
+uires 
+the o
+riginal 
+copy as
+ the re
+ferenc
+e\(meas
+ures f
+ideli
+ty rat
+her than
+ quali
+ty)\ Wo
+rks bet
+ter if t
+aking 
+HVS mo
+del in
+to ac
+count\H
+igher P
+robabil
+ity to fi
+nd ma
+tched s
+trings
+\Ofte
+n req
+uires t
+he orig
+inal c
+opy as
+ the ref
+erence\(
+measu
+res fid
+elity r
+ather t
+han qu
+ality
+)
+\ Work
+s bett
+er if ta
+king
+ HVS mo
+del int
+o accou
+nt\Highe
+r Pro
+babili
+ty to f
+ind mat
+ched 
+strin
+gs\Oft
+en requ
+ires th
+e orig
+inal co
+py as
+ the refe
+rence\(
+measur
+es fide
+lity rath
+er than
+ qualit
+y)\ Wor
+ks be
+tter if
+ taking 
+HVS mod
+el into
+ account
+\High
+er Probab
+ility 
+to fi
+nd mat
+ched s
+trings\
+Often r
+equire
+s the or
+iginal 
+copy as 
+the refe
+rence\(m
+easures
+ fideli
+ty rath
+er than 
+quality
+)\
+ Works
+ bette
+r if t
+aking H
+VS mo
+del into
+ account\
+Higher 
+Probab
+ility t
+o find 
+matche
+d strin
+gs\Ofte
+n requ
+ires the
+ orig
+inal cop
+y as th
+e ref
+erence\(m
+easures 
+fidelit
+y rat
+her than 
+quality)
+\ Works
+ better
+ if ta
+king 
+HVS mode
+l into 
+accoun
+t\Highe
+r Prob
+abilit
+y to 
+find m
+atched 
+string
+s\Of
+ten requ
+ires the 
+origin
+al cop
+y as the
+ refer
+ence\
+(measu
+res fide
+lity rathe
+r tha
+n quality
+)\ 
+Works 
+better
+ if tak
+ing HVS 
+model 
+into ac
+count\Hi
+gher P
+robabili
+ty to fi
+nd matc
+hed str
+ings\Ofte
+n requi
+res the 
+origina
+l copy 
+as the 
+refer
+ence\(
+measure
+s fidel
+ity rath
+er than q
+uality
+)\ W
+orks bett
+er if tak
+ing HVS m
+odel i
+nto acc
+ount\H
+igher Pr
+obabili
+ty to fin
+d matc
+hed stri
+ngs\Oft
+en requi
+res the o
+riginal c
+opy as 
+the refer
+ence\(m
+easures f
+idelit
+y rath
+er than qu
+ality)
+\ Works 
+better 
+if ta
+king H
+VS mod
+el into 
+account
+\Highe
+r Proba
+bility t
+o find m
+atched s
+trings\O
+ften req
+uires th
+e origi
+nal co
+py as 
+the refere
+nce\(
+measures
+ fidelit
+y rathe
+r than
+ quality
+)\ Wo
+rks bett
+er if taki
+ng HVS
+ model in
+to acc
+ount\Hi
+gher Pr
+obabilit
+y to f
+ind matc
+hed strin
+gs\Often
+ requi
+res the or
+iginal c
+opy as t
+he refe
+rence\(me
+asures f
+idelity
+ rathe
+r than 
+quality)\
+ Works 
+better i
+f taki
+ng HVS 
+model i
+nto acco
+unt\Hi
+gher Pro
+babilit
+y to fi
+nd match
+ed stri
+ngs\Ofte
+n requir
+es the o
+riginal co
+py as t
+he refer
+ence\(me
+asures fi
+delity 
+rather
+ than q
+uality)
+\ Works b
+etter i
+f takin
+g HVS 
+model in
+to acco
+unt\Hig
+her Prob
+ability
+ to fin
+d match
+ed strin
+gs\Often 
+require
+s the ori
+ginal c
+opy as th
+e refe
+rence\(mea
+sures f
+idelity 
+rather 
+than q
+uality)\
+ Works b
+etter if
+ taking H
+VS mode
+l into a
+ccount
+\Higher
+ Prob
+ability 
+to fin
+d matche
+d string
+s\Oft
+en requir
+es the or
+iginal co
+py as th
+e refer
+ence\(mea
+sures fi
+delity r
+ather th
+an qua
+lity)\ W
+orks bette
+r if ta
+king HV
+S model
+ into 
+account\
+Higher P
+robabilit
+y to fin
+d matched
+ string
+s\Ofte
+n require
+s the orig
+inal copy
+ as the
+ refere
+nce\(m
+easures fi
+delity ra
+ther than
+ quality)
+\ Works be
+tter if 
+taking H
+VS model
+ into a
+ccount\
+Higher Pr
+obability
+ to find
+ matched
+ strings
+\Often
+ requir
+es the ori
+ginal co
+py as the
+ referen
+ce\(mea
+sures fid
+elity ra
+ther than 
+quality)\ 
+Works b
+etter if 
+taking HV
+S model 
+into acc
+ount\Hig
+her Proba
+bility to
+ find mat
+ched st
+rings\Of
+ten requi
+res the ori
+ginal cop
+y as the 
+refere
+nce\(me
+asures fid
+elity rat
+her than q
+uality)\ 
+Works be
+tter if t
+aking HV
+S model i
+nto accou
+nt\Higher
+ Proba
+bility to 
+find ma
+tched st
+rings\Oft
+en require
+s the origi
+nal cop
+y as the r
+eference
+\(measu
+res fidel
+ity rathe
+r than q
+uality)\ W
+orks better
+ if taki
+ng HVS m
+odel in
+to accou
+nt\Higher 
+Probabi
+lity to f
+ind match
+ed string
+s\Often
+ require
+s the origin
+al copy
+ as the 
+referen
+ce\(meas
+ures fi
+delity rat
+her than qu
+ality)\
+ Works be
+tter if ta
+king HVS
+ model int
+o accoun
+t\Higher
+ Probab
+ility to
+ find matc
+hed string
+s\Often 
+requires
+ the orig
+inal copy 
+as the r
+eference\
+(measur
+es fidel
+ity rather
+ than qu
+ality)\ 
+Works bet
+ter if ta
+king HVS 
+model int
+o account
+\Higher 
+Probabil
+ity to fin
+d matched 
+strings
+\Often 
+requires 
+the or
+iginal cop
+y as the re
+ference
+\(measur
+es fideli
+ty rathe
+r than qu
+ality)\ W
+orks better 
+if tak
+ing HVS mo
+del into 
+account\H
+igher Pro
+bability
+ to find 
+matched
+ strings\
+Often re
+quires 
+the ori
+ginal copy
+ as the r
+eference\(
+measures 
+fidelity
+ rather
+ than qua
+lity)\ Wo
+rks bette
+r if tak
+ing HVS mod
+el into a
+ccount\H
+igher Prob
+ability t
+o find ma
+tched str
+ings\Often
+ requires
+ the origi
+nal copy
+ as the re
+ference\
+(measure
+s fideli
+ty rather
+ than qual
+ity)\ Wor
+ks bet
+ter if tak
+ing HVS mode
+l into ac
+count\Hig
+her Probab
+ility to 
+find mat
+ched str
+ings\Often 
+requires t
+he origi
+nal copy 
+as the re
+ference\(
+measures f
+idelity r
+ather tha
+n quality)
+\ Works bet
+ter if taki
+ng HVS mo
+del into a
+ccount\Hi
+gher Prob
+ability to
+ find match
+ed strings
+\Often r
+equires
+ the origin
+al copy 
+as the ref
+erence\(me
+asures fide
+lity rather
+ than quali
+ty)\ Wor
+ks bett
+er if takin
+g HVS m
+odel int
+o account\
+Higher Pro
+bability 
+to find
+ matched 
+strings\
+Often req
+uires the
+ origi
+nal copy a
+s the refe
+rence\(meas
+ures fid
+elity rath
+er than qua
+lity)\ Wor
+ks bette
+r if taki
+ng HVS mod
+el into ac
+count\High
+er Probabi
+lity to fi
+nd matche
+d strings
+\Often re
+quires t
+he origin
+al copy a
+s the refer
+ence\(meas
+ures fide
+lity rather 
+than qu
+ality)\ Wo
+rks better
+ if takin
+g HVS mo
+del into ac
+count\Highe
+r Probab
+ility to f
+ind matche
+d strings\
+Often requ
+ires the o
+riginal cop
+y as the ref
+erence\(mea
+sures fide
+lity rather t
+han qua
+lity)\ Work
+s bette
+r if takin
+g HVS mod
+el into acc
+ount\High
+er Probabil
+ity to find
+ matched s
+trings\Of
+ten requir
+es the orig
+inal copy a
+s the refere
+nce\(mea
+sures fidel
+ity rather 
+than qua
+lity)\ Works
+ better 
+if taki
+ng HVS mode
+l into acc
+ount\Highe
+r Probabi
+lity to fin
+d matched s
+trings\Oft
+en requires
+ the origina
+l copy a
+s the referen
+ce\(measu
+res fideli
+ty rather 
+than qual
+ity)\ Work
+s better
+ if taking
+ HVS mod
+el into acco
+unt\High
+er Probabili
+ty to find
+ matched st
+rings\Ofte
+n requires
+ the original
+ copy a
+s the referenc
+e\(measu
+res fidelit
+y rather
+ than qualit
+y)\ Work
+s better 
+if takin
+g HVS mode
+l into acco
+unt\Highe
+r Probabil
+ity to find 
+matched 
+strings\O
+ften requ
+ires the or
+iginal copy
+ as the ref
+erence\(meas
+ures fidel
+ity rather t
+han qual
+ity)\ Works
+ better i
+f taking
+ HVS mode
+l into accou
+nt\Higher P
+robability
+ to find m
+atched st
+rings\Often
+ requires 
+the orig
+inal copy as
+ the refer
+ence\(measu
+res fidelity
+ rather 
+than quali
+ty)\ Work
+s better i
+f taking 
+HVS model
+ into ac
+count\Higher
+ Probabi
+lity to find
+ matched str
+ings\Often r
+equires 
+the origi
+nal copy as
+ the refere
+nce\(meas
+ures fideli
+ty rather t
+han quali
+ty)\ Works
+ better if
+ taking HV
+S model in
+to accoun
+t\Higher 
+Probabili
+ty to find 
+matched s
+trings\Ofte
+n requires 
+the origin
+al copy as
+ the referen
+ce\(measur
+es fidelit
+y rather 
+than qualit
+y)\ Works
+ better if 
+taking HVS
+ model into
+ account\H
+igher Proba
+bility to f
+ind matched
+ strings\O
+ften requi
+res the orig
+inal copy as 
+the referen
+ce\(measure
+s fidelit
+y rather t
+han qualit
+y)\ Works 
+better if
+ taking HVS
+ model into 
+account\Hi
+gher Proba
+bility to fi
+nd matched
+ strings\Of
+ten require
+s the origina
+l copy as
+ the referenc
+e\(measur
+es fidelity
+ rather t
+han quality
+)\ Wor
+ks better
+ if taking 
+HVS model 
+into acco
+unt\Higher
+ Probabil
+ity to find m
+atched str
+ings\Often re
+quires th
+e origin
+al copy as 
+the referenc
+e\(measure
+s fidelity
+ rather th
+an qual
+ity)\ Works 
+better if 
+taking HVS 
+model into
+ account\Hi
+gher Probab
+ility to fi
+nd matched 
+strings\Of
+ten requires
+ the original 
+copy as t
+he refere
+nce\(measu
+res fidelity 
+rather t
+han quality)
+\ Works bett
+er if taking
+ HVS model
+ into acc
+ount\Higher
+ Probabili
+ty to find m
+atched stri
+ngs\Often
+ requires t
+he origina
+l copy as 
+the reference
+\(measure
+s fidelity 
+rather th
+an quali
+ty)\ Works 
+better if t
+aking HVS
+ model into a
+ccount\Hig
+her Probabi
+lity to find 
+matched st
+rings\Often 
+requires th
+e origina
+l copy as t
+he referen
+ce\(measures
+ fidelity
+ rather tha
+n quality)\
+ Works bet
+ter if takin
+g HVS model
+ into acco
+unt\Higher 
+Probabilit
+y to find
+ matched stri
+ngs\Often 
+requires the
+ origin
+al copy as t
+he referenc
+e\(measures
+ fidelity 
+rather tha
+n quality)\ 
+Works bett
+er if taking 
+HVS model i
+nto accoun
+t\Higher P
+robability 
+to find 
+matched str
+ings\Often req
+uires the 
+original
+ copy as
+ the reference
+\(measures
+ fidelity r
+ather than
+ quality)\
+ Works bett
+er if taking H
+VS model 
+into accou
+nt\Higher Pr
+obability 
+to find m
+atched strin
+gs\Often r
+equires t
+he original
+ copy as 
+the reference\
+(measures
+ fidelity ra
+ther than q
+uality)\ Wo
+rks better 
+if taking
+ HVS model 
+into accoun
+t\Higher Pr
+obability t
+o find mat
+ched stri
+ngs\Often r
+equires th
+e original
+ copy as t
+he reference
+\(measures 
+fidelity 
+rather than
+ quality)\ 
+Works bette
+r if taking
+ HVS model i
+nto account
+\Higher P
+robability t
+o find matc
+hed strings
+\Often req
+uires the o
+riginal copy
+ as the refe
+rence\(measu
+res fidelity r
+ather than 
+quality)\ W
+orks better i
+f taking H
+VS model i
+nto account\
+Higher Prob
+ability to 
+find matc
+hed strings\
+Often requi
+res the origi
+nal copy as 
+the reference\(
+measures fi
+delity rath
+er than qual
+ity)\ Works b
+etter if t
+aking HVS 
+model into 
+account\Hig
+her Probabil
+ity to find ma
+tched stri
+ngs\Often re
+quires the
+ origina
+l copy as th
+e refere
+nce\(measur
+es fidelity 
+rather than 
+quality)\ Wo
+rks better i
+f taking HV
+S model int
+o account\H
+igher Probab
+ility to fin
+d matched st
+rings\Often r
+equires the
+ original
+ copy as th
+e referen
+ce\(measures 
+fidelity r
+ather than q
+uality)\ Wor
+ks better 
+if taking 
+HVS model in
+to account
+\Higher Pr
+obability to
+ find matche
+d strings\O
+ften requir
+es the origi
+nal copy as t
+he reference\
+(measures 
+fidelity ra
+ther than qu
+ality)\ Wor
+ks better i
+f taking HVS
+ model into ac
+count\Higher 
+Probability
+ to find ma
+tched strin
+gs\Often re
+quires the 
+original 
+copy as th
+e referenc
+e\(measures 
+fidelity rat
+her than qua
+lity)\ Works 
+better if ta
+king HVS m
+odel into
+ account\Hig
+her Probabili
+ty to find ma
+tched string
+s\Often r
+equires the 
+original c
+opy as the
+ referenc
+e\(measures f
+idelity ra
+ther than qua
+lity)\ Works b
+etter if ta
+king HVS mo
+del into acc
+ount\Higher 
+Probability 
+to find ma
+tched strings
+\Often requ
+ires the ori
+ginal copy 
+as the refe
+rence\(measur
+es fidelity r
+ather than qu
+ality)\ Work
+s better if
+ taking HVS 
+model into a
+ccount\High
+er Probabilit
+y to find 
+matched stri
+ngs\Often req
+uires the or
+iginal copy 
+as the refer
+ence\(measur
+es fidelity ra
+ther than qual
+ity)\ Works be
+tter if tak
+ing HVS model
+ into accou
+nt\Higher Pro
+bability t
+o find match
+ed strings\
+Often requir
+es the origin
+al copy as th
+e reference
+\(measures f
+idelity rat
+her than qual
+ity)\ Works bet
+ter if taking
+ HVS model in
+to account\
+Higher Proba
+bility to fin
+d matched str
+ings\Often requ
+ires the orig
+inal copy as t
+he reference\(
+measures fid
+elity rathe
+r than qua
+lity)\ Works be
+tter if taki
+ng HVS model
+ into accoun
+t\Higher Pro
+bability to
+ find matched
+ strings\Oft
+en requires 
+the origina
+l copy as the
+ reference
+\(measures fi
+delity rathe
+r than qual
+ity)\ Works bett
+er if taking HV
+S model into
+ account\High
+er Probability
+ to find mat
+ched strin
+gs\Often req
+uires the ori
+ginal copy a
+s the reference
+\(measures fid
+elity rather
+ than quality
+)\ Work
+s better if 
+taking HVS m
+odel into 
+account\High
+er Probability 
+to find mat
+ched string
+s\Often re
+quires the o
+riginal copy 
+as the refere
+nce\(measure
+s fidelity r
+ather than qua
+lity)\ Works bet
+ter if taking 
+HVS model int
+o account\Hi
+gher Probabi
+lity to find m
+atched string
+s\Often req
+uires the orig
+inal copy as th
+e reference\
+(measures f
+idelity rath
+er than quali
+ty)\ Works b
+etter if tak
+ing HVS model 
+into account
+\Higher Pro
+bability to 
+find match
+ed strings\O
+ften require
+s the original
+ copy as the
+ reference\
+(measures fi
+delity rather
+ than quality)
+\ Works bette
+r if taking 
+HVS model into
+ account\Highe
+r Probabili
+ty to find mat
+ched strings
+\Often requi
+res the origin
+al copy as the
+ reference\(
+measures fide
+lity rather th
+an qualit
+y)\ Works b
+etter if taki
+ng HVS model 
+into account\
+Higher Probab
+ility to find
+ matched strin
+gs\Often requ
+ires the origi
+nal copy as th
+e reference\(
+measures fidel
+ity rather th
+an quality
+)\ Works
+ better if t
+aking HVS m
+odel into a
+ccount\Highe
+r Probabilit
+y to find m
+atched strings
+\Often requir
+es the origina
+l copy as the 
+referenc
+e\(measures fi
+delity rather 
+than quality
+)\ Works 
+better if tak
+ing HVS model i
+nto account\H
+igher Probabi
+lity to find ma
+tched strings\
+Often require
+s the original 
+copy as the
+ reference\(m
+easures fid
+elity rather 
+than quality)
+\ Works better
+ if taking H
+VS model in
+to account\H
+igher Probabil
+ity to find mat
+ched strings\
+Often requires
+ the original c
+opy as the 
+reference
+\(measures fide
+lity rather tha
+n quality)\ W
+orks better if
+ taking HVS m
+odel into ac
+count\Higher P
+robability to
+ find matched 
+strings\Oft
+en requires t
+he original 
+copy as the 
+reference\
+(measures fid
+elity rather t
+han quality)\
+ Works bette
+r if taking H
+VS model int
+o account\Hig
+her Probabilit
+y to find ma
+tched strings\O
+ften requires
+ the original co
+py as the 
+reference\(
+measures fideli
+ty rather th
+an quality)
+\ Works better 
+if taking H
+VS model into
+ account\Higher
+ Probabilit
+y to find mat
+ched strings\O
+ften requires 
+the original
+ copy as the 
+reference\(m
+easures fide
+lity rather than
+ quality)\ W
+orks better if 
+taking HVS mo
+del into acco
+unt\Higher P
+robability to 
+find matche
+d strings\Of
+ten requires 
+the original 
+copy as the r
+eference\(m
+easures fidel
+ity rather tha
+n quality)\ Wo
+rks better if
+ taking HVS mo
+del into accou
+nt\Higher Prob
+ability to f
+ind matched 
+strings\Ofte
+n requires t
+he original c
+opy as the r
+eference\(me
+asures fidel
+ity rather than
+ quality)\ Wo
+rks better if 
+taking HVS mod
+el into accou
+nt\Higher Proba
+bility to find
+ matched string
+s\Often requ
+ires the origin
+al copy as the 
+reference\(me
+asures fideli
+ty rather tha
+n quality)\ Wor
+ks better if
+ taking HVS mod
+el into accoun
+t\Higher Prob
+ability to fi
+nd matched s
+trings\Often
+ requires th
+e original 
+copy as the re
+ference\(m
+easures fideli
+ty rather than
+ quality)\ Wor
+ks better if 
+taking HVS mode
+l into accoun
+t\Higher Proba
+bility to find 
+matched strin
+gs\Often requi
+res the origina
+l copy as the r
+eference\(mea
+sures fideli
+ty rather than 
+quality)\ Wor
+ks better if t
+aking HVS mo
+del into accoun
+t\Higher Probab
+ility to find 
+matched string
+s\Often requi
+res the original
+ copy as the r
+eference\(meas
+ures fidelit
+y rather th
+an quality)\
+ Works better
+ if taking HV
+S model into 
+account\Highe
+r Probability
+ to find matc
+hed strings\O
+ften requires t
+he original co
+py as the r
+eference\(measu
+res fidelity ra
+ther than quali
+ty)\ Works be
+tter if takin
+g HVS model 
+into account\H
+igher Probabili
+ty to find matc
+hed strings\Of
+ten requires t
+he original cop
+y as the refe
+rence\(measure
+s fidelity ra
+ther than qualit
+y)\ Works be
+tter if taking
+ HVS model int
+o account\High
+er Probability t
+o find matche
+d strings\Oft
+en requires th
+e original c
+opy as the re
+ference\(me
+asures fidelit
+y rather tha
+n quality)\ Work
+s better if t
+aking HVS mod
+el into account
+\Higher Prob
+ability to fin
+d matched stri
+ngs\Often requ
+ires the origina
+l copy as the re
+ference\(mea
+sures fidelit
+y rather than
+ quality)\ Work
+s better if ta
+king HVS mod
+el into account\
+Higher Probabi
+lity to find mat
+ched strings\Of
+ten requires th
+e original co
+py as the re
+ference\(meas
+ures fidelity
+ rather than
+ quality)\ Works
+ better if ta
+king HVS mode
+l into account
+\Higher Proba
+bility to find m
+atched strings\
+Often requires 
+the original c
+opy as the ref
+erence\(measu
+res fidelity rat
+her than quali
+ty)\ Works bet
+ter if taking H
+VS model into 
+account\Higher
+ Probability
+ to find match
+ed strings\Of
+ten requires the
+ original 
+copy as the ref
+erence\(measur
+es fidelity rat
+her than qualit
+y)\ Works bet
+ter if taking HV
+S model into a
+ccount\Higher
+ Probability 
+to find matc
+hed strings\Oft
+en requires the
+ original c
+opy as the refe
+rence\(measures
+ fidelity rat
+her than quality
+)\ Works b
+etter if takin
+g HVS model i
+nto account\Hi
+gher Probabil
+ity to find matc
+hed strings\Ofte
+n requires th
+e original cop
+y as the refer
+ence\(measure
+s fidelity rat
+her than quality)
+\ Works better i
+f taking HVS 
+model into ac
+count\Higher Pr
+obability to 
+find matched
+ strings\Ofte
+n requires the
+ original co
+py as the ref
+erence\(measure
+s fidelity rath
+er than qualit
+y)\ Works bett
+er if taking HVS
+ model into acc
+ount\Higher P
+robability to f
+ind matched s
+trings\Often 
+requires the 
+original co
+py as the refe
+rence\(measures 
+fidelity rath
+er than quality
+)\ Works be
+tter if taking 
+HVS model into 
+account\Higher 
+Probability t
+o find matched
+ strings\Often
+ requires the
+ original cop
+y as the refere
+nce\(measures
+ fidelity rath
+er than quality)
+\ Works better if
+ taking HVS mode
+l into account\
+Higher Probabil
+ity to find match
+ed strings\Oft
+en requires the 
+original cop
+y as the referen
+ce\(measures f
+idelity rathe
+r than quali
+ty)\ Works bett
+er if taking HVS 
+model into acc
+ount\Higher Pr
+obability to f
+ind matched st
+rings\Often re
+quires the or
+iginal copy a
+s the reference\
+(measures fide
+lity rather than 
+quality)\ Work
+s better if tak
+ing HVS model in
+to account\Hi
+gher Probabili
+ty to find match
+ed strings\Ofte
+n requires the 
+original copy
+ as the refer
+ence\(measures
+ fidelity rathe
+r than qualit
+y)\ Works bette
+r if taking HV
+S model into ac
+count\Higher Pro
+bability to f
+ind matched str
+ings\Often requi
+res the original 
+copy as the refe
+rence\(measures f
+idelity rather
+ than quality)\
+ Works better 
+if taking HV
+S model into acc
+ount\Higher Pro
+bability to fi
+nd matched st
+rings\Often req
+uires the origi
+nal copy as the
+ reference\(me
+asures fidelity
+ rather than 
+quality)\ Works
+ better if tak
+ing HVS model int
+o account\Highe
+r Probability 
+to find match
+ed strings\Often
+ requires the 
+original copy 
+as the referen
+ce\(measures fi
+delity rather t
+han quality)\ 
+Works better
+ if taking HVS
+ model into acco
+unt\Higher Pr
+obability to fi
+nd matched str
+ings\Often requir
+es the original
+ copy as the re
+ference\(measu
+res fidelity rath
+er than quality)\
+ Works better i
+f taking HVS m
+odel into acc
+ount\Higher Prob
+ability to find
+ matched strings
+\Often require
+s the original c
+opy as the refer
+ence\(measures 
+fidelity rathe
+r than quality
+)\ Works bet
+ter if taking HVS
+ model into accou
+nt\Higher Probab
+ility to find m
+atched strings\O
+ften requires th
+e original copy
+ as the refere
+nce\(measures 
+fidelity rather
+ than quality)\ 
+Works better 
+if taking HVS
+ model into accoun
+t\Higher Probabi
+lity to find matc
+hed strings\Often
+ requires the o
+riginal copy a
+s the reference\(
+measures fidelit
+y rather than 
+quality)\ Works 
+better if taki
+ng HVS model i
+nto account\Hig
+her Probability
+ to find matche
+d strings\Ofte
+n requires the o
+riginal copy as
+ the reference\
+(measures fidel
+ity rather than 
+quality)\ Works b
+etter if taking
+ HVS model into
+ account\Higher 
+Probability to
+ find matched s
+trings\Often r
+equires the o
+riginal copy as 
+the reference\(m
+easures fidelit
+y rather than q
+uality)\ Work
+s better if taki
+ng HVS model in
+to account\Hig
+her Probability 
+to find matche
+d strings\Often
+ requires the or
+iginal copy as
+ the reference\(
+measures fidelity
+ rather than q
+uality)\ Works
+ better if taki
+ng HVS model int
+o account\Higher
+ Probability t
+o find matched 
+strings\Often
+ requires the ori
+ginal copy as
+ the reference\(m
+easures fidelity
+ rather than qu
+ality)\ Works
+ better if takin
+g HVS model in
+to account\High
+er Probability to
+ find matched st
+rings\Often requ
+ires the original
+ copy as the ref
+erence\(measures
+ fidelity rather
+ than quality)\ W
+orks better if t
+aking HVS mode
+l into account\H
+igher Probabilit
+y to find matc
+hed strings\Often 
+requires the o
+riginal copy as t
+he reference\(m
+easures fidelity 
+rather than q
+uality)\ Works 
+better if takin
+g HVS model int
+o account\Higher 
+Probability to 
+find matched 
+strings\Often 
+requires the or
+iginal copy as 
+the reference\(me
+asures fidelity 
+rather than qu
+ality)\ Works 
+better if taking
+ HVS model into 
+account\Higher P
+robability to fi
+nd matched stri
+ngs\Often requi
+res the original c
+opy as the refere
+nce\(measures f
+idelity rather 
+than quality)\
+ Works better if
+ taking HVS model
+ into account
+\Higher Probab
+ility to find ma
+tched strings\Of
+ten requires the 
+original copy a
+s the reference\(m
+easures fidelity r
+ather than qual
+ity)\ Works bette
+r if taking HVS
+ model into account
+\Higher Probabi
+lity to find match
+ed strings\Often 
+requires the ori
+ginal copy as 
+the reference\(mea
+sures fidelity
+ rather than qua
+lity)\ Works bett
+er if taking HVS m
+odel into acco
+unt\Higher Pro
+bability to fin
+d matched strin
+gs\Often requir
+es the original 
+copy as the refer
+ence\(measures f
+idelity rather t
+han quality)\ W
+orks better if ta
+king HVS model
+ into account\
+Higher Probabili
+ty to find matche
+d strings\Often 
+requires the orig
+inal copy as the
+ reference\(mea
+sures fidelity 
+rather than qua
+lity)\ Works bette
+r if taking HVS 
+model into acco
+unt\Higher Prob
+ability to find 
+matched strings
+\Often requires
+ the original cop
+y as the referenc
+e\(measures fid
+elity rather th
+an quality)\ 
+Works better i
+f taking HVS mo
+del into account
+\Higher Probabil
+ity to find matche
+d strings\Often r
+equires the or
+iginal copy as t
+he reference\(me
+asures fidelity r
+ather than quali
+ty)\ Works bette
+r if taking HVS m
+odel into accou
+nt\Higher Probabi
+lity to find matche
+d strings\Often re
+quires the ori
+ginal copy as t
+he reference\(mea
+sures fidelity r
+ather than qualit
+y)\ Works better
+ if taking HVS 
+model into accou
+nt\Higher Probabil
+ity to find matched
+ strings\Often 
+requires the origi
+nal copy as the 
+reference\(mea
+sures fidelity ra
+ther than quality
+)\ Works bett
+er if taking HVS mo
+del into account\
+Higher Probabilit
+y to find match
+ed strings\Often r
+equires the ori
+ginal copy as th
+e reference\(m
+easures fidelity ra
+ther than quality)
+\ Works better if 
+taking HVS model
+ into account\H
+igher Probability
+ to find matched
+ strings\Often r
+equires the orig
+inal copy as the 
+reference\(meas
+ures fidelity 
+rather than qual
+ity)\ Works better
+ if taking HVS m
+odel into accoun
+t\Higher Probabil
+ity to find matched 
+strings\Often r
+equires the origi
+nal copy as the r
+eference\(measur
+es fidelity rath
+er than quality)\ 
+Works better if
+ taking HVS model 
+into account\Hi
+gher Probabilit
+y to find matche
+d strings\Often req
+uires the origin
+al copy as the r
+eference\(measure
+s fidelity rathe
+r than quality)
+\ Works better if t
+aking HVS model
+ into account\Hi
+gher Probability
+ to find matched 
+strings\Often re
+quires the orig
+inal copy as the r
+eference\(measures
+ fidelity rather 
+than quality)\ 
+Works better if 
+taking HVS model 
+into account\Hig
+her Probability t
+o find matched s
+trings\Often re
+quires the origi
+nal copy as the re
+ference\(measur
+es fidelity rathe
+r than quality)\
+ Works better if 
+taking HVS model i
+nto account\High
+er Probability to 
+find matched s
+trings\Often req
+uires the origina
+l copy as the ref
+erence\(measures 
+fidelity rather 
+than quality)\ W
+orks better if tak
+ing HVS model into
+ account\Higher P
+robability to fin
+d matched string
+s\Often requir
+es the original c
+opy as the referen
+ce\(measures fid
+elity rather tha
+n quality)\ Works
+ better if taking
+ HVS model into a
+ccount\Higher 
+Probability to f
+ind matched stri
+ngs\Often requir
+es the original co
+py as the refer
+ence\(measures fi
+delity rather th
+an quality)\ W
+orks better if taki
+ng HVS model into
+ account\Higher Pr
+obability to fin
+d matched strings
+\Often requires 
+the original co
+py as the refere
+nce\(measures fi
+delity rather tha
+n quality)\ Works 
+better if taking 
+HVS model into a
+ccount\Higher P
+robability to find
+ matched strings\
+Often requires t
+he original copy
+ as the referen
+ce\(measures fide
+lity rather than q
+uality)\ Works b
+etter if taking 
+HVS model into ac
+count\Higher Prob
+ability to find m
+atched strings\Of
+ten requires the o
+riginal copy as th
+e reference\(me
+asures fidelity ra
+ther than quality)\
+ Works better if t
+aking HVS model 
+into account\High
+er Probability to f
+ind matched strin
+gs\Often require
+s the original co
+py as the referen
+ce\(measures fidel
+ity rather than q
+uality)\ Works be
+tter if taking H
+VS model into a
+ccount\Higher Pr
+obability to find
+ matched strings\O
+ften requires the
+ original copy
+ as the referenc
+e\(measures fide
+lity rather than qu
+ality)\ Works b
+etter if taking H
+VS model into ac
+count\Higher Proba
+bility to find ma
+tched strings\Oft
+en requires the o
+riginal copy as the
+ reference\(meas
+ures fidelity r
+ather than quality
+)\ Works bette
+r if taking HVS mo

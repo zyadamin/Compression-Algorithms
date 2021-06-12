@@ -1,0 +1,790 @@
+---
+H
+i
+g
+h
+e
+r
+ 
+P
+ro
+b
+a
+bi
+l
+it
+y
+ t
+o
+ f
+in
+d
+ m
+at
+c
+he
+d 
+s
+t
+ri
+n
+gs
+\
+O
+f
+te
+n 
+re
+q
+u
+ir
+es
+ th
+e 
+or
+ig
+ina
+l 
+co
+p
+y 
+as
+ the
+ r
+ef
+er
+en
+ce
+\(
+m
+ea
+su
+res
+ fi
+de
+li
+ty
+ ra
+th
+er 
+tha
+n q
+ua
+lit
+y)
+\ 
+W
+ork
+s 
+be
+tt
+er i
+f 
+ta
+k
+ing
+ H
+V
+S
+ mo
+del
+ i
+nt
+o 
+ac
+cou
+nt\
+Hi
+gh
+er P
+rob
+ab
+il
+ity
+ to
+ fin
+d m
+atc
+hed
+ s
+tr
+ings
+\O
+ft
+en 
+req
+ui
+res 
+the
+ o
+rig
+inal
+ c
+op
+y a
+s t
+he 
+ref
+ere
+nc
+e\
+(
+me
+asu
+res f
+id
+el
+ity 
+ra
+ther
+ tha
+n qu
+al
+ity)
+\ W
+orks
+ b
+et
+ter
+ if
+ ta
+ki
+ng
+ HV
+S 
+mo
+del 
+int
+o a
+cc
+ou
+nt\H
+igh
+er Pr
+ob
+abi
+lity
+ to 
+fi
+nd
+ ma
+tc
+hed 
+st
+rin
+gs\
+Of
+ten
+ re
+qu
+ire
+s th
+e o
+rigi
+na
+l c
+opy
+ a
+s the
+ ref
+eren
+ce\
+(m
+eas
+ur
+es 
+fid
+eli
+ty 
+rat
+her
+ than
+ q
+ual
+ity)\
+ W
+orks 
+bet
+ter 
+if
+ tak
+ing 
+HV
+S m
+od
+el 
+into
+ ac
+coun
+t\
+Hig
+her 
+Pr
+oba
+bil
+ity t
+o f
+ind
+ mat
+ch
+ed
+ st
+ring
+s\
+Oft
+en r
+eq
+uir
+es t
+he o
+rigin
+al 
+cop
+y as
+ the 
+refe
+ren
+ce\(
+mea
+sur
+es f
+ide
+lity 
+rath
+er t
+ha
+n qua
+lity)
+\ Wo
+rk
+s b
+ett
+er if
+ taki
+ng 
+HVS
+ mod
+el i
+nto
+ acc
+oun
+t\H
+ighe
+r 
+Pro
+ba
+bili
+ty t
+o fi
+nd 
+ma
+tch
+ed 
+str
+ings\
+Ofte
+n r
+equ
+ires
+ the o
+rigina
+l co
+py
+ as
+ the r
+efe
+renc
+e\(
+meas
+ure
+s f
+idel
+ity r
+ath
+er th
+an
+ qu
+ali
+ty)
+\ Wor
+ks
+ be
+tte
+r i
+f t
+ak
+ing H
+VS
+ mode
+l i
+nto 
+acc
+ount
+\H
+igher
+ P
+roba
+bilit
+y t
+o fin
+d ma
+tche
+d s
+tri
+ngs
+\Of
+ten 
+requ
+ires 
+the 
+ori
+gi
+nal
+ co
+py 
+as 
+the r
+efer
+enc
+e\(m
+easu
+res fi
+deli
+ty r
+athe
+r t
+han
+ qua
+lity)\
+ Wo
+rks
+ bet
+ter i
+f ta
+kin
+g 
+HVS 
+mod
+el in
+to
+ acco
+un
+t\Hi
+ghe
+r P
+robab
+ili
+ty to
+ find
+ matc
+hed s
+trin
+gs\O
+fte
+n re
+qui
+res t
+he or
+igi
+nal 
+copy
+ as 
+the re
+fe
+rence
+\(m
+easur
+es fi
+delit
+y r
+ather
+ than 
+qua
+lity)\ 
+Wo
+rks 
+bett
+er if 
+tak
+ing HV
+S mo
+del i
+nto a
+cco
+unt
+\Hi
+gher
+ Pr
+obab
+ilit
+y to
+ find 
+mat
+che
+d st
+rings
+\Oft
+en re
+quir
+es th
+e or
+igin
+al c
+opy 
+as t
+he r
+efere
+nce
+\(me
+asur
+es fid
+elit
+y ra
+ther 
+than
+ qual
+ity)\ 
+Wor
+ks 
+bette
+r if
+ takin
+g H
+VS 
+mode
+l in
+to 
+acco
+unt\
+High
+er Pro
+bab
+ility
+ to f
+ind 
+matc
+hed st
+rings\
+Often
+ req
+uire
+s the 
+orig
+inal 
+copy 
+as th
+e r
+eferen
+ce\(m
+easure
+s fi
+delity
+ rat
+her t
+han 
+qual
+ity)\ W
+orks b
+ette
+r if 
+taki
+ng H
+VS m
+ode
+l int
+o ac
+count
+\Hig
+her P
+robabi
+lity t
+o find
+ match
+ed s
+tring
+s\O
+ften
+ requ
+ires t
+he ori
+gin
+al co
+py a
+s the r
+eferenc
+e\(me
+asure
+s fid
+elity
+ rath
+er tha
+n qual
+ity)\ Wo
+rks b
+etter
+ if 
+takin
+g HV
+S mod
+el int
+o acc
+ount\
+Highe
+r Pr
+obabi
+lity to
+ find m
+atch
+ed st
+rings\O
+ften 
+requi
+res th
+e ori
+gina
+l cop
+y as 
+the ref
+erenc
+e\(mea
+sure
+s fide
+lity r
+ather 
+than 
+quali
+ty)\
+ Wor
+ks b
+etter 
+if 
+taking
+ HVS
+ model
+ in
+to a
+ccou
+nt\Hi
+gher 
+Prob
+abil
+ity to
+ find ma
+tched
+ str
+ings\O
+ften r
+equi
+res the
+ or
+igina
+l copy
+ as t
+he re
+fer
+ence
+\(mea
+sures
+ fid
+elity 
+rathe
+r th
+an 
+qualit
+y)\
+ Work
+s be
+tter
+ if t
+aki
+ng HV
+S mode
+l into
+ accou
+nt\Hig
+her Pr
+obabil
+ity to 
+fin
+d mat
+ched
+ stri
+ngs\
+Often 
+requir
+es the
+ ori
+ginal
+ cop
+y as t
+he ref
+erence
+\(meas
+ures
+ fide
+lity ra
+ther t
+han q
+uali
+ty)\ 
+Work
+s bet
+ter if
+ taking
+ HVS 
+model
+ int
+o acco
+unt\H
+igher 
+Proba
+bility
+ to fi
+nd m
+atche
+d str
+ings\Of
+ten r
+equir
+es the 
+origi
+nal c
+opy a
+s the re
+fere
+nce\
+(me
+asures
+ fidel
+ity ra
+ther th
+an q
+ualit
+y)\ 
+Works
+ bett
+er if t
+akin
+g HVS
+ model 
+into 
+accou
+nt\High
+er Prob
+abili
+ty to 
+find
+ matche
+d stri
+ngs\O
+ften re
+quire
+s the o
+riginal
+ copy
+ as th
+e re
+feren
+ce\(me
+asures 
+fide
+lity rat
+her th
+an qu
+alit
+y)\ W
+orks be
+tter 
+if t
+aking
+ HVS m
+odel
+ into
+ accoun
+t\Hig
+her Pro
+babi
+lity to 
+find 
+match
+ed str
+ings\Oft
+en req
+uires
+ the or
+iginal
+ copy 
+as the
+ refe
+rence\
+(mea
+sures 
+fidel
+ity rat
+her tha
+n quali
+ty)\ W
+orks bet
+ter if 
+taking 
+HVS m
+odel 
+into a
+ccoun
+t\High
+er Proba
+bility 
+to f
+ind m
+atched
+ strin
+gs\Of
+ten re
+quires
+ the ori
+ginal 
+copy a
+s the ref
+erence\
+(meas
+ures 
+fideli
+ty ra
+ther tha
+n qualit
+y)\ Wo
+rks be
+tter i
+f tak
+ing HVS
+ model i
+nto ac
+count\
+Higher
+ Pro
+babil
+ity to f
+ind ma
+tched 
+stri
+ngs\Of
+ten req
+uires 
+the o
+riginal 
+copy as
+ the re
+ferenc
+e\(meas
+ures f
+ideli
+ty rat
+her than
+ quali
+ty)\ Wo
+rks bet
+ter if t
+aking 
+HVS mo
+del in
+to ac
