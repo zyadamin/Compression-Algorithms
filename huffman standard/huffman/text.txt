@@ -1,0 +1,220 @@
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
+Same steps and concept as Huffman Coding
+Algorithm
+In order to Minimize Huffman Table size and Codes
+lengths, set Minimum Limit of Symbol
+Probabilities (e.g. 0.05)
+Symbols with Probabilities <= the Limit will be
+grouped in one group called “Others”
+All Symbols will be coded using Corresponding
+Huffman codes, Symbols in “Other” group will be
+coded using both “Others” Huffman code
+Original Symbol Code.
